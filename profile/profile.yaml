@@ -5,32 +5,38 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+summary: I am a recent graduate from Conestoga College in Information Technology Business Analysis. I had been working as a Social Media Analyst for almost 
+two and half years after the completion of my bachleor degree in Computer Science & Information Technology in Nepal. It is also one of the reason for continuing my 
+higher degree in IT here in Canada. I wanted to develop my professional growth with deep level understanding of Information Technology Management. 
+Currently, I have joined Jarvis as a BSA where I have been learning advanced software technologies. I have been receiving practical experience with a wide range 
+of data analysis technologies as well as knowledge of the agile project management lifecycle methodology. I strive to make a difference in organization with quality
+decision-making skill resulting satisfactory output.
+In conclusion, I am excited and looking forward to make a difference working in challenging project ensuring success with a team effort.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
-    - Java
-    - Linux/Bash
-    - RDBMS/SQL
     - Agile/Scrum
+    - RDBMS/SQL
     - Git
+    - Linux/Bash
+    - Excel
   # At least 5 skills
   competent:
-    - Donec
-    - fermentum
-    - Donec
-    - fermentum
-    - Donec
+    - Excel
+    - RDBMS/SQL
+    - Python Data Analytics
+    - Linux/Bash
+    - Docker
   # At least 5 skills
   familiar:
-    - Donec
-    - fermentum
-    - fermentum
-    - fermentum
-    - fermentum
+    - Pandas
+    - Numpy
+    - Networking
+    - Visio
+    - Gephi
 
 # List of Jarvis projects
 jarvis_projects:
