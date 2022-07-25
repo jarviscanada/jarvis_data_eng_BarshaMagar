@@ -33,6 +33,6 @@ export PGPASSWORD=$psql_password
 #Insert server usage data into host_info table
 psql -h $psql_host -p $psql_port -d $db_name -U $psql_user -c "INSERT INTO host_usage(timestamp,memory_free,cpu_idle,cpu_kernel,disk_io,disk_available) VALUES('$timestamp','$memory_free','$cpu_idle','$cpu_kernel','$disk_io','$disk_available')";
 
-* * * * * bash /home/centos/project/jarvis_data_eng_TirupatiShiwakoti/linux_sql/scripts/host_usage.sh localhost 5432 host_agent postgres password > /tmp/host_usage.log
+* * * * * bash /home/centos/project/jarvis_data_eng_BarshaMagar/linux_sql/scripts/host_usage.sh localhost 5432 host_agent postgres password > /tmp/host_usage.log
 
 exit
