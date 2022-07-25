@@ -9,7 +9,7 @@ psql_password=$5
 
 if [ $# -eq 0 ]
 then
-  echo "This progeam exit from here"
+  echo "This is a test"
   exit 1
 fi
 
