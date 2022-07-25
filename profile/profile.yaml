@@ -1,0 +1,125 @@
+# Preferred name (Characters only)
+name: "Barsha Layo Magar"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
+
+# Introduce yourself (80-120 words)
+# Suggestions: you should 
+# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
+# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
+# 3) mention what kind of role you are looking for
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+summary: I am a recent graduate from Conestoga College in Information Technology Business Analysis. I had been working as a Social Media Analyst for almost two and half years after the completion of my Bachelor degree in Computer Science & Information Technology in Nepal. My major responsibilities were to maintain Public Relations with different kinds of customers. I really enjoyed my role & responsibilities. It is one of the reasons for me to pursue my career in an advanced level as a BSA. I wanted to develop my professional growth with deep level understanding of Information Technology Management. 
+Currently, I have joined Jarvis as a BSA where I got to have experience with different project that helped me to improve my technical skills like SQL query & RDBMS. I have been receiving practical experience with a wide range of data analysis technologies as well as knowledge of the agile project management lifecycle methodology. I strive to make a difference in organization starting through junior level BSA role.
+
+
+skills:
+  # Please include 
+  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
+  #     2) business tools (such as excel, viso, etc.)
+  
+  Soft Skills:
+    - Communication
+    - Team-work
+    - Conflict-resolution
+    - Time-management
+    - Elicitation
+    - Planning & Organization
+
+Business Skills:
+    - Documentation
+    - Requirement Elicitation
+    - Microsoft Excel
+    - Visio
+    - Power BI
+  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
+  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
+  Technical Skills:
+    - RDBMS/SQL
+    - LINUX
+    - Python
+    - Git
+
+# List of Jarvis projects
+# Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
+jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "/linux_sql"
+    # Focus on BSA work instead of development work
+    # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
+    description: Linux/SQL project is about designing & implementing the business needs of LCA team who are Jarvis Linux Cluster Administrator team. The BRD of LCA team includes requirement of recording the hardware specifications of each node. 
+The SRD of LCA team includes an MVP that is needed to be designed for the team to meet their business need. The implementation of the program is done through Linux command lines, Bash scripts, PostgreSql, docker, IDE and dbeaver. This project uses Scrum approach. Github is used as a host for repositiories to manage project releases.Bash scripting language is used for main script development. The overall system is set up and running on Centos 7 in a remote desktop hosted by Google Cloud Platform. 
+
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    # Focus on BSA work instead of development work
+    # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
+    description: The project was about delivering analytical result via solving business queries of LSG.Our team was responsible for delivering a proof of concept (POC) project that helps the LGS marketing by analyzing customer shopping behaviour due to lack of growth in their revenue in recent years. In addition to the issues, LGS lacked enough IT resources to tackle the problem. So, with the help of our analytical services, we'll be helping LGS to develop marketing strategies through our analytical reports. The main tools were Python, Jupyter Notebook, Pandas Dataframe, and Numpy for the PoC project. As a Junior developer I was responsible to solve LGS business queries. I used dbeaver to work on the sql queries for LGS. I ran Jupyter notebook on my remote environment using docker in my desktop. the analytic result will be delivered to LGS via Jupyter Notebook and Github.
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+
+# List of personal or academic projects
+# Please focus on transferable skills, such as soft skills and data related skills
+highlighted_projects:
+    #project name
+  - name: "Easy Rentals"
+ 
+#URL is optional
+    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Developed a website named Easy Rental in a group project. It was designed for rental purpose acting as a common platform for the user. The website focused on renting clothes especially party wear. Designed the User Interface of the website from mockups to functionable prototype using software tools such as Adobe XD. 
+  - name: "Expense Track"
+    git_url:
+    description: Designed & developed the UI/UX of an application named Expense Track. The application was built to track the monthly expense of the user. 
+
+# List of professional experience
+# Please focus on transferable skills, such as soft skills and data related skills
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Business Sytem Analyst"
+    company: "Jarvis"
+    duration: "2022-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
+    description: 
+    "- Elected to team leader twice for scrum meeting during project execution, 
+    - Implied Agile methodology to discuss sprint backlogs with team members,
+    - Adapted new technologies & methods for the project completion
+    - Strengthened technical skills such as RDBS/SQL, LINUX with technical sessions
+    - Improved time management, communication skills with behavioural sessions
+"
+  - title: "Social Media Analyst"
+    company: "Sherpa Outdoor - KTMCTY"
+    duration: "2019-2020"
+    description: "Performed social media analysis with SNA tools
+    - Assisted to interns with projects
+    - Maintained Public Relation as a communication handler with customers & clients requirements
+    - Decision making for selection to deploy the final product after analysis
+    - Utilized social media platforms' content strategy to manage a company's public interactions
+"
+
+#List of edcuation
+education: 
+  - school_name: "Conestoga College"
+    duration: "2021-2022"
+    degree: "Information Technology Business Analysis"
+    department: "WORKFORCE DEVELOPMENT, CONTINUING EDUCATION & ONLINE LEARNING"
+    # optional
+  
+  - school_name: "Tribhuwan University"
+    duration: "2013-2017"
+    degree: "Bachelor of Science in Computer Science & Information Technology"
+    department: "Computer Science & Information Technology"
+    
+
+#Optional section
+others:
+    #category
+ 
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Badminton player"
+      - "Cooking"
+      - "Hiking"
+
