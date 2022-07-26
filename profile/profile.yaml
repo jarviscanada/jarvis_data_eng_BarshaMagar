@@ -112,13 +112,13 @@ education:
 #Optional section
 others:
   #category
-  - title: "Certificates"
+#  - title: "Certificates"
 #list of items
-    bullets:
-    - "Udacity Machine Learning (2019)"
-  - title: "Awards"
-    bullets:
-    - "Winner"
+#    bullets:
+#    - "Udacity Machine Learning (2019)"
+  #- title: "Awards"
+  #  bullets:
+   # - "Winner"
   - title: "Activities/Hobbies"
     bullets:
     - "Hiking"
