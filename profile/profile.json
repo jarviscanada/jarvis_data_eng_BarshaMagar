@@ -5,20 +5,29 @@
         "GPA: 3"
       ],
       "degree": "Post Graduate in Information Technology Business Analysis",
-      "department": "WORKFORCE DEVELOPMENT, CONTINUING EDUCATION \u0026 ONLINE LEARNING",
+      "department": "Workforce Development, Continuing Education \u0026 Online Learning",
       "duration": "2021-2022",
       "school_name": "Conestoga College"
+    },
+    {
+      "awards_achievements": [
+        "GPA: 3"
+      ],
+      "degree": "Bachelor of Science in Computer Science \u0026 Information Technology",
+      "department": "Central Department of Computer Science \u0026 Information Technology.",
+      "duration": "2013-2017",
+      "school_name": "Tribhuwan University"
     }
   ],
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_BarshaMagar",
   "highlighted_projects": [
     {
-      "description": "Developed a website named Easy Rental in a group project. It was designed for rental purpose acting as a common platform for the user. The website focused on renting clothes especially party wear. Designed the User Interface of the website from mockups to functionable prototype using software tools such as Adobe XD.",
+      "description": "Developed a website named Easy Rental in a group project. It was designed for rental purpose acting as a common platform for the user. The website focused on renting clothes especially party wear. Designed the User Interface of the website from mockups to functionable prototype using Adobe XD.",
       "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
       "name": "Web app for rental platform"
     },
     {
-      "description": "Designed \u0026 developed the UI/UX of an application named Expense Track. The application was built to track the monthly expense of the user.",
+      "description": "Designed mobile application named Expense Track. The application focused on managing the monthly expense of user. The user interface was designed on Adobe XD. The application was designed to generate monthly report of the user's expense based upon the user's input into the application.",
       "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
       "name": "Mobile app for expense management"
     }
@@ -39,8 +48,8 @@
   "others": [
     {
       "bullets": [
-        "Hiking",
-        "Reading Novels",
+        "Trying new recipes on day-off",
+        "Attending social events",
         "Exploring new places"
       ],
       "title": "Activities/Hobbies"
@@ -49,13 +58,13 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "- Elected to team leader twice for scrum meeting during project execution, - Implied Agile methodology to discuss sprint backlogs with team members, - Adapted new technologies \u0026 methods for the project completion - Strengthened technical skills such as RDBS/SQL, LINUX with technical sessions - Improved time management, communication skills with behavioural sessions",
+      "description": "- Implied Agile methodology to generate solution for the sprint backlog, - Implemented new technologies \u0026 languages for the project completion - Strengthened technical skills such as RDBS/SQL, LINUX with technical sessions - Improved time management, communication skills with behavioural sessions",
       "duration": "2022-present",
       "title": "Business System Analyst"
     },
     {
       "company": "Sherpa Outdoor - KTMCTY",
-      "description": "- Performed social media analysis with SNA tools - Assisted to interns with projects - Maintained Public Relation as a communication handler with customers \u0026 clients requirements - Decision making for selection to deploy the final product after analysis - Utilized social media platforms' content strategy to manage a company's public interactions",
+      "description": "- Performed social media analysis with SNA tools - Analyzed social media coverage of company - Planned strategies and campaigns for the brand - Maintained Public Relation as a communication handler with customers \u0026 clients requirements - Decision making for selection to deploy the final product after analysis - Utilized social media platforms' content strategy to manage a company's public interactions",
       "duration": "2019-2020",
       "title": "Social Media Analyst"
     }
@@ -80,5 +89,5 @@
       "Git"
     ]
   },
-  "summary": "I am a recent graduate from Conestoga College in Information Technology Business Analysis. I worked as Social Media Analyst for two and half years after my completion of Bachelor Degress in Computer Science and Information Technology in Nepal. My major responsibilities was to maintain Public Relations with different kinds of customers. I enjoyed my role and responsibilities, which is one of the reason for me to pursue my career in an advanced level as a BSA. I wanted to enhance my professional growth with deep level undestanding of Information Technology Management. Currently, I have joined Jarvis as a BSA where I got to work on different projects that helped me improve my technical skills such as SQL query, RDBMS, Python, etc required for this role. My experience working with wide range of data analysis technologies in an agile/scrum framework helped to build my skills. I strive to make a difference in company starting my journey through junior level BSA role."
+  "summary": "I am a recent graduate from Conestoga College. I have a Post Graduate degree in Information Technology and Business Analysis. I did Bachelor in Computer Science and Information Technology.After the graduation, I started working as a Social Media Analyst for over two and half years in Nepal. My responsibilities were to handle Public Relation with clients and customers.It involved managing communication between company and public that'd help public perception's towards company. My other major tasks included planning strategies for the campaigns,organizing promotion events for the brand. I have experience dealing with client requirements, analyzing social media coverage ofbusiness. However, I wanted to enhance my professional growth with deep level undestanding of Information Technology Management. Based upon my past work experience, I realized to advance my career in expert level, Business System Analyst is the next step for my career. Currently, I have joined Jarvis as a BSA where I got to work on different projects that helped me improve my technical skills such as SQL query, RDBMS, Python, etc required for this role. My experience working with wide range of data analysis technologies in an agile/scrum framework helped to build my skills. Now, I want to leverage my experiences I have received and get hands-on BSA experience starting from a entry-level role."
 }
