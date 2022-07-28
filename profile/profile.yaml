@@ -8,8 +8,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_BarshaMaga
 # 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
 # 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
 # 3) mention what kind of role you are looking for
-# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your
-summary: I am a recent graduate from Conestoga College in Information Technology Business Analysis. I have a Bachelor degree in Computer Science and Informtion Technology. After my graduation, I worked as Social Media Analyst for two and half years in Nepal. My major responsibilities were to maintain Public Relations with different kinds of customers. During my period, I managed communication between company and public that shaped public perception's towards business. My other major tasks included planning strategies for the campaigns,organizing promotion events for the brand. I have experience dealing with client requirements, analyzing social media coverage ofbusiness. However, I wanted to enhance my professional growth with deep level undestanding of Information Technology Management. Based upon my past work experience, I realized to advance my career in expert level, Business System Analyst is the next step for my career. Currently, I have joined Jarvis as a BSA where I got to work on different projects that helped me improve my technical skills such as SQL query, RDBMS, Python, etc required for this role. My experience working with wide range of data analysis technologies in an agile/scrum framework helped to build my skills. Now, I want to leverage my experiences I have received and get hands-on BSA experience starting from a entry-level role.  
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your company and public that shaped public perception's towards business. My other major tasks included planning strategies for the campaigns,organizing promotion events for the brand. I have experience dealing with client requirements, analyzing social media coverage ofbusiness. However, I wanted to enhance my professional growth with deep level undestanding of Information Technology Management. Based upon my past work experience, I realized to advance my career in expert level, Business System Analyst is the next step for my career. Currently, I have joined Jarvis as a BSA where I got to work on different projects that helped me improve my technical skills such as SQL query, RDBMS, Python, etc required for this role. My experience working with wide range of data analysis technologies in an agile/scrum framework helped to build my skills. Now, I want to leverage my experiences I have received and get hands-on BSA experience starting from a entry-level role.  
 skills:
 # Please include
 #     1)soft skills (e.g. elicitation, communication, collaboration, interpersonal, etc )
@@ -98,8 +97,8 @@ education:
     degree: "Post Graduate in Information Technology Business Analysis"
     department: "Workforce Development, Continuing Education & Online Learning"
 # optional
-#    awards_achievements:
-    #  - "GPA: 3"
+#  awards_achievements:
+      "GPA: 3"
 #  - "Scholarship"
 #  - "Dean's List (2015, 2016): Ut enim ad minim veniam"
 #  - "GPA: 3.8/4.0"
@@ -108,11 +107,11 @@ education:
     degree: "Bachelor of Science in Computer Science & Information Technology"
     department: "Central Department of Computer Science & Information Technology."
 # awards_achievements:
-
+      "GPA: 3"
 #Optional section
 others:
   #category
-#  - title: "Certificates"
+  - title: "Certificates"
 #list of items
 #    bullets:
 #    - "Udacity Machine Learning (2019)"
