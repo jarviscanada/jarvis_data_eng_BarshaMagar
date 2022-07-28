@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction
 The project was about delivering analytical result via solving business queries of LSG.Our team was responsible for delivering a proof of concept (POC) project that helps the LGS marketing by analyzing customer shopping behaviour due to lack of growth in their revenue in recent years. In addition to the issues, LGS lacked enough IT resources to tackle the problem. So, with the help of our analytical services, we'll be helping LGS to develop marketing strategies through our analytical reports. 
 The main tools were Python, Jupyter Notebook, Pandas Dataframe, and Numpy for the PoC project. As a Junior developer I was responsible to solve LGS business queries. I used dbeaver to work on the sql queries for LGS. 
@@ -19,3 +20,13 @@ I ran Jupyter notebook on my remote environment using docker in my desktop. the 
 
 # Improvements
 - List three improvements that you want to do if you got more time
+=======
+# Jarvis Data Engineering Training
+1. [Linux cluster monitoring agent (Linux and SQL)](./linux_sql) In-progress
+2. [Core Java Apps](./core_java) In-progress
+3. [Springboot Trading REST API](./springboot) In-progress
+4. [Hadoop/Hive](./hadoop) In-progress
+5. [Spark/Scala](./spark) In-progress
+6. [Cloud/DevOps](./cloud_devops) In-progress
+
+>>>>>>> 4442c99fbad11f16e5384044ec4c6f0eb0da0855

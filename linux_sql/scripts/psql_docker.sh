@@ -66,4 +66,8 @@ case $cmd in
 	  echo 'Commands: start|stop|create'
 	  exit 1
 	  ;;
+<<<<<<< HEAD
 esac
+=======
+esac
+>>>>>>> 4442c99fbad11f16e5384044ec4c6f0eb0da0855
